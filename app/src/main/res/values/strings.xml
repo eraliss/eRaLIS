@@ -16,4 +16,5 @@
     <string name="v_Details">Vehicle Details</string>
     <string name="voff_Details">View Offences</string>
     <string name="noff_Details">New Offences</string>
+    <string name="eralis_web">https://eralis.rsta.gov.bt/eralis/</string>
 </resources>
