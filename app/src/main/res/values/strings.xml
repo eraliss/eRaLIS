@@ -5,7 +5,7 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="eralis_logo">eRaLIS logo</string>
-    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_home_screen">Options</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
