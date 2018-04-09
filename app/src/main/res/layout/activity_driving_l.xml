@@ -24,7 +24,26 @@
                 android:layout_marginStart="20dp"
                 android:ems="10"
                 android:inputType="textPersonName"
+                android:background="@drawable/rounded"
+                android:backgroundTint="#428BCA"
                 android:hint="@string/DL_No" />
+
+            <Button
+                android:id="@+id/DLview"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="200dp"
+                android:layout_marginBottom="100dp"
+                android:layout_marginLeft="100dp"
+                android:background="@drawable/rounded"
+                android:backgroundTint="#428BCA"
+                android:text="@string/DL_view"
+                android:textColor="@color/white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
         </LinearLayout>
     </ScrollView>
 </android.support.constraint.ConstraintLayout>
