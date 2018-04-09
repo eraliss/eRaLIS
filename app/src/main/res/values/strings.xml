@@ -16,4 +16,9 @@
     <string name="v_Details">Vehicle Details</string>
     <string name="voff_Details">View Offences</string>
     <string name="noff_Details">New Offences</string>
+
+    <string name="DL_No">Driving Licence Number</string>
+
+
+    <string name="ll">Driving Licence Number</string>
 </resources>
